@@ -17,9 +17,34 @@ subtitle = ""
 [[feature]]
   icon = "address-card"
   icon_pack = "fas"
-  name = "R"
+  name = "Feature 1"
   description = "Description of feature 1"
- 
+
+ [[feature]]
+  icon = "address-card"
+  icon_pack = "fas"
+  name = "Feature 2"
+  description = "Description of feature 2"
+
+  [[feature]]
+  icon = "address-card"
+  icon_pack = "fas"
+  name = "Feature 3"
+  description = "Description of feature 3"
+
+  [[feature]]
+  icon = "address-card"
+  icon_pack = "fas"
+  name = "Feature 4"
+  description = "Description of feature 4"
+
+  [[feature]]
+  icon = "address-card"
+  icon_pack = "fas"
+  name = "Feature 5"
+  description = "Description of feature 5"
+
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
