@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Grainne Jennings
+title: Author Name
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,8 +22,8 @@ interests:
 
 education:
   courses:
-  - course: PhD 
-    institution: University of Limerick
+  - course: .. 
+    institution: ...
     year: 2020
  
 
@@ -58,6 +58,5 @@ user_groups:
 - Visitors
 ---
 
-Grainne is ...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
